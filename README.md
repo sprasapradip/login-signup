@@ -14,8 +14,10 @@ To access the login/signup form and interact with it, follow these steps:
    git clone https://github.com/your-username/your-project.git
 
 2. Navigate to the project directory:
-```bash
+
+   ```bash
    cd your-project
+
 3. Open the index.html file in your preferred web browser.
 
 4. You will see the login/signup form displayed. Fill in the required fields and click the "Submit" button to authenticate or sign up.
