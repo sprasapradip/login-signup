@@ -13,4 +13,6 @@ To access the login/signup form and interact with it, follow these steps:
    ```bash
    git clone https://github.com/your-username/your-project.git
 
-2. 
+2. Navigate to the project directory:
+```bash
+   cd your-project
