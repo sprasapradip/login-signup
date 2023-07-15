@@ -4,6 +4,7 @@ Welcome to my project! This project includes a login/signup form that allows use
 ![Login/Signup Form](./loginsignup1.html)
 
 
+
 ## Instructions
 
 To access the login/signup form and interact with it, follow these steps:
@@ -23,3 +24,6 @@ To access the login/signup form and interact with it, follow these steps:
 4. You will see the login/signup form displayed. Fill in the required fields and click the "Submit" button to authenticate or sign up.
 
 5. Explore the various features and functionalities of the project once you have successfully logged in or signed up.
+
+## Contributing
+Describe how others can contribute to your project, whether through bug reports, feature requests, or code contributions. Provide guidelines or instructions on how to get started with contributing.
