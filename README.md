@@ -32,7 +32,11 @@ To access the login/signup form and interact with it, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines below:
+1. Fork the repository and clone it to your local machine.
+   ```bash
+   git clone https://github.com/your-username/your-project.git
 
+2. Create a new branch for your feature or bug fix.
 
 
 ## Contact
