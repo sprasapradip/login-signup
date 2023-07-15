@@ -4,7 +4,6 @@ Welcome to my project! This project includes a login/signup form that allows use
 
 
 
-
 ## Instructions
 
 To access the login/signup form and interact with it, follow these steps:
@@ -27,3 +26,6 @@ To access the login/signup form and interact with it, follow these steps:
 
 ## Contributing
 Describe how others can contribute to your project, whether through bug reports, feature requests, or code contributions. Provide guidelines or instructions on how to get started with contributing.
+
+## Contact
+Provide contact information or links to your social media profiles or website if users have questions, suggestions, or want to get in touch.
