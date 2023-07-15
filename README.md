@@ -2,7 +2,12 @@
 
 Welcome to my project! This project includes a login/signup form that allows users to authenticate and access various features.
 
+## Table of Contents
 
+
+- [Instructions](#instructions)
+- [Contributing](#contributing)
+- [Contect](#contact)
 
 ## Instructions
 
