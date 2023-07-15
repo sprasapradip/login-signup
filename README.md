@@ -30,7 +30,10 @@ To access the login/signup form and interact with it, follow these steps:
 5. Explore the various features and functionalities of the project once you have successfully logged in or signed up.
 
 ## Contributing
-Describe how others can contribute to your project, whether through bug reports, feature requests, or code contributions. Provide guidelines or instructions on how to get started with contributing.
+
+Contributions are welcome! If you would like to contribute to this project, please follow the guidelines below:
+
+
 
 ## Contact
 Provide contact information or links to your social media profiles or website if users have questions, suggestions, or want to get in touch.
