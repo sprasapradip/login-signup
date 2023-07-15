@@ -7,7 +7,7 @@ Welcome to my project! This project includes a login/signup form that allows use
 
 - [Instructions](#instructions)
 - [Contributing](#contributing)
-- [Contect](#contact)
+- [Contact](#contact)
 
 ## Instructions
 
